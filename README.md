@@ -3,7 +3,7 @@
 機能としては、ログイン機能、購入した服登録機能、服情報変更機能、登録服削除機能、購入服月別金額表示機能、購入服総合計表示機能のです。
 下記イメージを参照してください。
 今までに購入した服の情報をアプリケーション上で可視化し、どの色のどういった服何着あり今月いくら使ったを見ることで納得感のある衣服の購買行動を促すことが可能です。
-<img src="https://user-images.githubusercontent.com/81619089/158009569-6c6a5b14-fd2e-488b-9869-7bde3d6f432b.JPG" alt=""ユーザー認証画面></img>
+<img src="https://user-images.githubusercontent.com/81619089/158009882-56dd4f58-6d80-4297-94e5-8a67d38168eb.jpg" alt=""ユーザー認証画面></img>
 <img src="https://user-images.githubusercontent.com/81619089/158009579-f839ae3f-6e0a-4e2c-a039-0f48a3e34614.JPG"></img>
 <img src="https://user-images.githubusercontent.com/81619089/158009589-abee288d-7dfc-439a-8c5e-5981591feb08.JPG"></img>
 <img src="https://user-images.githubusercontent.com/81619089/158009593-987953ef-e8c2-4940-bd6d-9640e54ca619.JPG"></img>
