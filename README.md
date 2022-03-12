@@ -6,8 +6,8 @@
 <h3>開発環境</h3>
 <li>開発環境　AWS Cloud9</li>  
 <li>使用言語:PHP version7.4.28</li>
-<li>：composer 2.2.7</li>
-<li>:Laravel  6.20.44</li>
+<li>composer:2.2.7</li>
+<li>Laravel:6.20.44</li>
  
  
  <h3>工夫したポイント</h3>
